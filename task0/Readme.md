@@ -14,6 +14,8 @@
 
 Шукає від'ємні числа, котрі стоять поруч
 
+![Screenshot_2](https://user-images.githubusercontent.com/86964297/124481489-03f0e180-ddb1-11eb-960c-6acc983f34df.png)
+
 
 Результат :
 
