@@ -2,12 +2,13 @@
 
 Працювання програми
 Спочатку программа генерує массив із чисел. Числа беруться за допомогою рандому ( від -100 до 100 )
-![Screenshot_2](https://user-images.githubusercontent.com/86964297/124480756-4534c180-ddb0-11eb-8ecb-ccb0bf18cb84.png)
-
 Программа одразу знахоть максимальне значення і його індекс.
+
+![Screenshot_2](https://user-images.githubusercontent.com/86964297/124480756-4534c180-ddb0-11eb-8ecb-ccb0bf18cb84.png)
 
 
 Вона виводить всю інформацію на екран
+![Screenshot_3](https://user-images.githubusercontent.com/86964297/124481146-a8beef00-ddb0-11eb-9973-1ebd1deb997b.png)
 
 
 
